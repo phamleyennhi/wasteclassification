@@ -7,4 +7,4 @@ This jupyter notebook in this repository is part of a larger project where we ai
 
 In the jupyter notebook, we use dataset from Kaggle for two types of trash (organic and recyclable) and apply convolutional neural networks to the model for classification. 
 
-The Google Colab version can also be found here: shorturl.at/ltFJV
+The Google Colab version of the project can also be found here: shorturl.at/ltFJV
